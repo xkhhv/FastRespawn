@@ -1,0 +1,20 @@
+---
+# message you want to send when player die!
+kill_message: "&9{player} &eKilled by &c{killer}"
+###############################
+# void message want you to send when player fell in the void!!
+void_message: "&3{player} &efell out in the void!"
+###############################
+# use true-false in the under
+# if you want to clear inventory on fell out in the void or no!
+clear_inventory: false
+###############################
+# if you want when the killer kill the player get heal!
+heal_for_killer: false
+# if you want when the killer kill the player get money,EconomyAPI!
+money_when_kill: false
+# how many money do you want to get to killer?
+money_amount: 10
+# message you want to get to the killer when get money!
+money_message: "&eYou have got 10 money!"
+...

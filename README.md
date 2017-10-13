@@ -12,7 +12,7 @@ INDEV
 ### Features
 - Easy to use (if you don't know how to use it i think you are spoon and you should see this video(Arabic Dub): https://www.youtube.com/watch?v=FS83qD2LVEg
 - No permissions and commands.
-- Config Fie.
+- Config File.
 - Messages you can edit in config file.
 - Money when you kill if you want (True/False) and you should to install (EconomyAPI).
 

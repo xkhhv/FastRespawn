@@ -28,6 +28,6 @@ I'd like to keep my issue tracker as clean as possible, so please take the follo
 
 ### About Me
 If you want to know more about me you can follow me:
->Instagram: @khavmc
+>Instagram: @khavmc<br/>
 >YouTube: xkhhv
 >PMMP: KHAV

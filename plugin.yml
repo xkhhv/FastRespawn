@@ -2,6 +2,5 @@ name: FastRespawn
 main: FastRespawn\Main
 author: khavmc
 version: 2.0.0
-api: [3.0.0, 2.0.0, 1.11.0]
-website: khavmcpl.weebly.com
+api: [3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8]
 description: make you respawn automatically without red screen!

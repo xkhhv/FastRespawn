@@ -20,7 +20,7 @@ INDEV
 No commands and permissions in this plugin but if you want to put permission you can but you should know how :)
 
 ### Feedback
-I'd like to keep our issue tracker as clean as possible, so please take the following in consideration when opening a new issue in the issue tracker:
+I'd like to keep my issue tracker as clean as possible, so please take the following in consideration when opening a new issue in the issue tracker:
 - If you have an issue with the plugin, check if the issue exists in the Issue tracker, and report it if not.
 - If you'd like support or have a question about the plugin, please click the Gitter button under the title.
 - If you have a great idea for a new feature or enhancement, please create a new issue in the Issue tracker.

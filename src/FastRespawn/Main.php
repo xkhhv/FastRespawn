@@ -94,7 +94,8 @@ class Main extends PluginBase implements Listener {
                             );
                             $money_msg = str_replace($search, $replace, $this->getConfig()->getAll(){"money_message"});
                             $killer->sendMessage(FMT::colorMessage($money_msg));
-                        }
+                              $this->getServer()->getPluginManager()->callEvent(new PlayerDeathEvent($player, [], ""));
+			}
                         foreach ($this->getServer()->getOnlinePlayers() as $players) {
                             $search = array(
                                 '{killer}',

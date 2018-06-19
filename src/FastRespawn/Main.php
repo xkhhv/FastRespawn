@@ -67,7 +67,7 @@ class Main extends PluginBase implements Listener {
                     $killer = $event->getDamager();
                     $playerN = $player->getName();
                     $killerN = $killer->getName();
-                    if ($event->getDamage() >= $event->getEntity()->getHealth()) {
+                    if ($event->getBaseDamage() >= $event->getEntity()->getHealth()) {
                         $event->setCancelled();
                         $player->setHealth(20);
                         $player->setFood(20);

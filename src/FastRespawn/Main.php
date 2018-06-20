@@ -86,7 +86,7 @@ class Main extends PluginBase implements Listener {
                                 $economy->addMoney($killerN, $this->getConfig()->get("money_amount"));
                             $search = array(
                                 '{player}',
-                                '{killer'
+                                '{killer}'
                             );
                             $replace = array(
                                 $playerN,
